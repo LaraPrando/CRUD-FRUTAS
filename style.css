@@ -1,0 +1,41 @@
+body {
+    background-color: rgb(35, 157, 171);
+    margin-top: 200px;
+}
+
+.container-formulario {
+
+    max-width: 600px;
+    
+    margin: 0 auto;
+    
+    padding: 20px;
+    
+    background-color: rgb(24, 113, 122);
+    
+    border-radius: 10px;
+    
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.2);
+    
+    }
+
+    input {
+        padding-right: 430px;
+        margin-left: 1px;
+        border-radius: 5px;
+    }
+    .listar {
+        
+    max-width: 600px;
+    
+    margin: 0 auto;
+    
+    padding: 20px;
+    
+    background-color: rgb(242, 242, 242);
+    
+    border-radius: 10px;
+    
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.2);
+    }
+   
